@@ -1,0 +1,19 @@
+{
+  "name": "blacklist",
+  "version": "0.0.0",
+  "description": "anonymous blacklist site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riggs/blacklist.git"
+  },
+  "author": "riggs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riggs/blacklist/issues"
+  },
+  "homepage": "https://github.com/riggs/blacklist#readme"
+}
